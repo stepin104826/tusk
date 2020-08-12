@@ -6,6 +6,9 @@ Chicken
 Pasta
 Biriyani
 
+Pizza
+Burger
+
 
 
 Thank you!!
